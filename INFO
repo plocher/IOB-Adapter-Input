@@ -1,0 +1,10 @@
+title: IOB-Adapter-Input
+project: IOB-Adapter-Input
+image_path: IOB-Adapter-Input-Graphic.png
+designer: John Plocher
+author: John Plocher
+fabricated: yes
+fab_date: 2020.09
+status: released
+release: yes
+tags: [eagle, SPCoast]
